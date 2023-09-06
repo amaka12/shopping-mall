@@ -1,0 +1,31 @@
+ul {
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:darkgray;
+    font-family: Arial, sans-serif;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ 
+  h1{
+    text-align: center;
+  }
+  li{
+    color: black;
+  }
+  h2{
+    font-family:  'Times New Roman';
+  }
