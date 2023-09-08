@@ -5,29 +5,28 @@ body{
 h1{
     text-align: center;
 }
-.product{
+section{
     display: inline-block;
     margin: 20px;
     width: 200px;
     text-align: center;
 }
-.product img{
+section img{
     width: 150px;
     height: 150px;
     object-fit: cover;
     margin-bottom: 10px;
 }
 
-.product p{
+section{
     font-size: 20px;
     
 }
-.product button{
+section{
     background-color: black;
     color:red;
     border: none;
     padding: 8px;
     
 }
-
-
+                              
